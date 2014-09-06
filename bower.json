@@ -1,0 +1,21 @@
+{
+  "name": "sync-web",
+  "version": "0.0.1",
+  "authors": [
+    "Kevin Chiu <korprulu9@gmail.com>"
+  ],
+  "description": "The web page of sync",
+  "keywords": [
+    "sync"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.14"
+  }
+}
